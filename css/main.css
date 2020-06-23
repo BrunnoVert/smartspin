@@ -441,7 +441,7 @@ body.mobile-nav-active #mobile-nav-toggle{color:#fff;}
 .video-left p span{color:#000;font-weight:400;}
 @media (max-width:960px){.video-left{margin-bottom:30px;}
 }
-.video-right{background:url(../img/baby.png) no-repeat center;background-size:contain;height:350px;}
+.video-right{background:url(../img/baby.jpg) no-repeat center;background-size:contain;height:350px;}
 .video-left-gif{background:url(../img/about-img.gif) no-repeat center;background-size:cover;height:350px;}
 .video-right .overlay-bg{background-color:rgba(0, 0, 0, 0.78);}
 .video-right .play-btn{z-index:2;}
