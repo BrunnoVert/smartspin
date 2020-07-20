@@ -26,7 +26,7 @@
 ::-moz-placeholder{color:#777777;opacity:1;font-weight:300;}
 :-ms-input-placeholder{color:#777777;font-weight:300;}
 ::-ms-input-placeholder{color:#777777;font-weight:300;}
-body{color:#777777;font-family:'Montserrat', sans-serif;font-size:14px;font-weight:300;line-height:1.625em;position:relative;overflow-x:hidden !important;}
+body{color:#777777;font-family:"Poppins", sans-serif;font-size:14px;font-weight:300;line-height:1.625em;position:relative;overflow-x:hidden !important;}
 ol, ul{margin:0;padding:0;list-style:none;}
 select{display:block;}
 figure{margin:0;}
@@ -43,9 +43,9 @@ a, a:focus, a:hover{text-decoration:none;outline:0;}
 .btn i, .btn-large i, .btn-floating i, .btn-large i, .btn-flat i{font-size:1em;line-height:inherit;}
 .gray-bg{background:#f9f9ff;}
 h1, h2, h3,
-h4, h5, h6{font-family:'Montserrat', sans-serif;color:#222222;line-height:1.2em !important;margin-bottom:0;margin-top:0;font-weight:600;}
+h4, h5, h6{font-family:"Poppins", sans-serif;color:#222222;line-height:1.2em !important;margin-bottom:0;margin-top:0;font-weight:600;}
 .h1, .h2, .h3,
-.h4, .h5, .h6{margin-bottom:0;margin-top:0;font-family:'Montserrat', sans-serif;font-weight:600;color:#222222;}
+.h4, .h5, .h6{margin-bottom:0;margin-top:0;font-family:"Poppins", sans-serif;font-weight:600;color:#222222;}
 h1, .h1{font-size:36px;}
 h2, .h2{font-size:30px;}
 h3, .h3{font-size:24px;}
@@ -419,7 +419,7 @@ body.mobile-nav-active #mobile-nav-toggle{color:#fff;}
 .overlay{position:absolute;left:0;right:0;top:0;bottom:0;}
 .banner-area{background:url(../img/header-bg-fixed.jpg) center;background-size:cover;}
 .banner-content{margin-top:-318px;text-align:center;}
-.banner-content h1{color:#e9ecef;font-size:50px;font-weight:300;line-height:1em;margin-top:20px;margin-bottom:18px;text-shadow:-2px 1.5px 9px #000000;}
+.banner-content h1{color:#e9ecef;font-size:50px;font-weight:700;line-height:1em;margin-top:20px;margin-bottom:18px;text-shadow:-2px 1.5px 9px #000000;}
 .banner-content h1 span{font-weight:700;}
 @media (max-width:991.98px){.banner-content h1{font-size:36px;}
 }
